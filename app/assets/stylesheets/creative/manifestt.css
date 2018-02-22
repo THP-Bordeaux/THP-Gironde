@@ -53,7 +53,11 @@
 
 #mce-EMAIL{
 	display: flex;
+<<<<<<< HEAD
 	justify-content: center; 
+=======
+	justify-content:center;
+>>>>>>> 9cdf5a3913ebab60977d25fb4efc85868dd5d79f
 }
 
 #newsletter{

@@ -1,6 +1,36 @@
 # THP Gironde
 
-Heroku: https://j34-thp-gironde.herokuapp.com/
+Heroku: https://landing-thp-bordeaux.herokuapp.com/
+
+Voici, en quelques étapes, notre Workflow:
+
+1. Récupération emails / hashtags twitter cibles
+2. Envoi emails/ tweets
+3. Inscription email des cibles depuis les landing pages
+4. Email de confirmation
+5. Email de bienvenue
+6. Envoi newsletter (à charge de féfé)
+
+Nos Cibles:
+
+* Étudiants (student)
+* Personnes en reconversion professionnelles (reconversion)
+* Retraités ayant envie d'apprendre (senior)
+* Personnes voulant acquérir une nouvelle compétence (polyvalent)
+* Mairies de Gironde (cityhall)
+
+Canaux d'acquisition:
+
+* Emailing : Nous envoyons des emails aux mairies de la Gironde à l'aide du bon vieux scraping des mairies.
+* Twitter : Nous tweetons sur des hashtags identifiés en fonction de nos cibles, en pointant vers les différentes landing pages.
+* Reddit et autres forums: On a abandonné l'idée.
+
+Outils utilisés:
+
+* Mailchimp: Pour stocker les emails/prénoms et pour envoyer la newsletter.
+* Google Analytics: Pour les stats du site
+* Bitly: Pour des stats détaillées sur les clics des différents liens
+* Tags URL: Tous les liens vers le site ont un tag utm_source pour voir quel canal convertit le mieux
 
 ---
 
