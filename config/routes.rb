@@ -1,19 +1,18 @@
 Rails.application.routes.draw do
 
   root 'creatives#index'
-  
-#  get 'home/homepage'
 
-#  get 'home/student'
+  get 'accueil', to:'home#homepage'
 
-#  get 'home/senior'
+  get 'etudiant', to:'home#student'
 
-  get 'home/reconversion'
+  get 'senior', to:'home#senior'
 
-#  get 'home/polyvalent'
+  get 'reconversion', to:'home#reconversion'
 
+  get 'polyvalent', to:'home#polyvalent'
 
-  get 'home/mairies'
+  get 'mairie', to:'home/mairies'
 
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
 end
