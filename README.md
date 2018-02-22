@@ -1,6 +1,6 @@
 # THP Gironde
 
-Heroku: https://j34-thp-gironde.herokuapp.com/
+Heroku: https://landing-thp-bordeaux.herokuapp.com/
 
 ---
 
