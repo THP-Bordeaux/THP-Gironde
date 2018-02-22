@@ -24,7 +24,8 @@ Cliquez sur le lien Heroku ci-dessus pour avoir les liens vers les landing pages
 Canaux d'acquisition:
 
 * Emailing : Nous envoyons des emails aux mairies de la Gironde à l'aide du bon vieux scraping des mairies.
-* Twitter : Nous tweetons sur des hashtags identifiés en fonction de nos cibles, en pointant vers les différentes landing pages.
+* Twitter : Nous tweetons sur des hashtags identifiés en fonction de nos cibles, en pointant vers les différentes landing pages. Pour cella nous avons créé un bot twitter qui prend un champs (ce qu'il faut tweeter), le formate en ajoutant les hashtags identifiés, et envoie le tweet.
+Pour plus de détail sur cette app, consulter ce repo https://github.com/THP-Bordeaux/send_tweet.
 * Reddit et autres forums: On a abandonné l'idée.
 
 Outils utilisés:
