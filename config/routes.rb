@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
 
-  root 'creatives#index'
+  root 'home#homepage'
 
   get 'accueil', to:'home#homepage'
 
@@ -12,7 +12,7 @@ Rails.application.routes.draw do
 
   get 'polyvalent', to:'home#polyvalent'
 
-  get 'mairie', to:'home/mairies'
+  get 'mairie', to:'home#mairies'
 
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
 end
