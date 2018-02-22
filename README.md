@@ -19,6 +19,8 @@ Nos Cibles:
 * Personnes voulant acquérir une nouvelle compétence (polyvalent)
 * Mairies de Gironde (cityhall)
 
+Cliquez sur le lien Heroku ci-dessus pour avoir les liens vers les landing pages.
+
 Canaux d'acquisition:
 
 * Emailing : Nous envoyons des emails aux mairies de la Gironde à l'aide du bon vieux scraping des mairies.
