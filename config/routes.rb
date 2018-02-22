@@ -8,7 +8,7 @@ Rails.application.routes.draw do
 
 #  get 'home/senior'
 
-#  get 'home/reconversion'
+  get 'home/reconversion'
 
 #  get 'home/polyvalent'
 
