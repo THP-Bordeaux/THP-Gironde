@@ -13,4 +13,7 @@ class HomeController < ApplicationController
 
   def polyvalent
   end
+
+  def mairies    
+  end
 end
