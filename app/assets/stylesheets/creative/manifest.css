@@ -6,3 +6,60 @@
  *= require_self
 */
 
+.header-content-inner{
+	padding: auto;
+}
+
+.text-uppercase{
+	font-size: 6rem;
+	text-transform: uppercase !important;
+	font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+	margin-bottom: .5rem;
+	font-weight: 500;
+	line-height: 1.2;
+	color: inherit;
+}
+
+#mainNav{
+	background-color: #EF5332;
+	border-style: none;
+}
+
+/*form Mail Chimp*/
+
+#mc_embed_signup{
+		display: flex;
+		justify-content: center;
+}
+
+.mc-field-group{
+	display: flex;
+	justify-content: center;
+	font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif;
+	color: #333333;
+}
+
+#mc-embedded-subscribe{
+	display: center;
+	justify-content: center;
+	
+}
+
+
+.clear{
+	display: flex;
+	justify-content: center;
+}
+
+#mce-EMAIL{
+	display: flex;
+	justify-content: 
+}
+
+#newsletter{
+	display: flex;
+	justify-content: center;
+	padding-top: 5em;
+	font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif;
+}
+
